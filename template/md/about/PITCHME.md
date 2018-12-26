@@ -3,8 +3,11 @@
 
 @css[west text-white text-20](Agenda)
 
-@box[bg-orange text-white rounded demo-box-pad](Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
-@title[Title + List Fragments]
+@box[bg-white text-black rounded demo-box-pad](1. dsfsdf<br> 2.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
+
+
+
++++@title[Title + List Fragments]
 
 @snap[south-west list-content-concise span-100]
 @ol
