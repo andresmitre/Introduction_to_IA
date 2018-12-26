@@ -1,6 +1,18 @@
 ---?color=linear-gradient(to right, #000000, #434343)
 @title[Introduction]
 
+.headline {
+  color: gold;
+  text-transform: uppercase;
+}
+
+.byline {
+  color: gray;
+  font-size: 0.9em;
+  letter-spacing: 2px;
+}
+
+
 @snap[west headline text-white span-70]
 Inteligencia Artificial: primeros pasos.<br>
 @snapend
