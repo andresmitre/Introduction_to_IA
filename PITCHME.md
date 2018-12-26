@@ -1,14 +1,7 @@
 ---?color=linear-gradient(to right, #000000, #434343)
 @title[Introduction]
 
-@css[west text-bold text-white text-15](Inteligencia Artificial)
-
-@snap[south-west byline  text-gold]
-*Andres Mitre,<br>*
-*Centro de Investigación en Matemáticas (CIMAT),<br>*
-*Human Centered Computer Lab (HCC)*
-@snapend
-
+@css[west text-white text-20](Inteligencia Artificial)
 
 ---?include=template/md/about/PITCHME.md
 
