@@ -2,7 +2,7 @@
 @title[Introduction]
 
 
-@css[west h1-white headline span-70 text-bold](Inteligencia Artificial: primeros pasos)
+@css[west headline span-70 text-bold](Inteligencia Artificial: primeros pasos)
 
 @snap[south-west byline  text-gold]
 *Centro de Investigación en Matemáticas (CIMAT),<br>*
