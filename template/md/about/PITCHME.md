@@ -1,7 +1,9 @@
----?image=template/img/pencils.jpg
-@title[About Templates]
+---?color=linear-gradient(to right, #485563, #29323c)
+@title[Agenda]
 
-## @color[black](About<br>Slide Templates)
+## @color[white](Agenda)
+
+@box[bg-orange text-white rounded demo-box-pad](Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
 
 @fa[arrow-down text-black]
 
