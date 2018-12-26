@@ -1,12 +1,13 @@
----?color=linear-gradient(to right, #ffffff, #434343)
+---?color=linear-gradient(to right, #000000, #434343)
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-Inteligencia Artificial: primeros pasos.<br>*de trabajo*
+Inteligencia Artificial: primeros pasos.<br>**
 @snapend
 
 @snap[south-west byline  text-white]
-ANDRES AITRE
+*Centro de Investigación en Matemáticas (CIMAT),<br>*
+*Human Centered Compter Lab (HCC)*
 @snapend
 
 ---?include=template/md/about/PITCHME.md
