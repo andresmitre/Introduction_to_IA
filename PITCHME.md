@@ -2,12 +2,13 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-Inteligencia Artificial: primeros pasos.<br>**
+Inteligencia Artificial: primeros pasos.<br>
 @snapend
 
+@css[headline](hola)
 @snap[south-west byline  text-white]
 *Centro de Investigación en Matemáticas (CIMAT),<br>*
-*Human Centered Compter Lab (HCC)*
+*Human Centered Computer Lab (HCC)*
 @snapend
 
 ---?include=template/md/about/PITCHME.md
