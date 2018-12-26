@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #000000, #434343)
 @title[Introduction]
 
-@css[west h1-white](Inteligencia Artificial)
+@css[h1-white](Inteligencia Artificial)
 
 @snap[south-west byline  text-gold]
 *Andres Mitre,<br>*
