@@ -1,6 +1,3 @@
-[comment]: <> (sunrise)
-[comment]: <> (---?color=linear-gradient(to right, #c02425, #f0cb35))
-
 ---?color=linear-gradient(to right, #ffffff, #434343)
 @title[Introduction]
 
