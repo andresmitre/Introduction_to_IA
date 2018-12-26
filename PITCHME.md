@@ -13,7 +13,9 @@ Inteligencia Artificial: primeros pasos.<br>
 ---
 @css[west h1-white text-25 span-40 text-bold](Inteligencia Artificial: primeros pasos)
 
-@snap[south text-italics text-white span-100]
+@css[west h4-white text-10 span-90 text-bold](Centro de Investigación en Matemáticas CIMAT, Human Centered Computer Lab (HCC)*))
+
+@snap[south text-italics text-blue span-100]
 For Everyone on GitHub, GitLab, and Bitbucket.
 @snapend
 
