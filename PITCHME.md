@@ -11,10 +11,11 @@ Inteligencia Artificial: primeros pasos.<br>
 @snapend
 
 ---
-@css[text-white](The Markdown Presentation Service on Git)
-@css[headline](ACME Corp Clearance Sale)
+@css[text-black text-25  text-bold](The Markdown Presentation Service on Git)
 
-@css[byline](Dynamite Deals - Short Fuses Included!)
+@snap[south text-italics text-white span-100]
+For Everyone on GitHub, GitLab, and Bitbucket.
+@snapend
 
 
 ---?include=template/md/about/PITCHME.md

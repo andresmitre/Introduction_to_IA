@@ -216,6 +216,50 @@
 .span-100 { width: 100% }
 
 
+/** Text size **/
+.text-01 { font-size: 0.1em !important; }
+.text-02 { font-size: 0.2em !important; }
+.text-03 { font-size: 0.3em !important; }
+.text-04 { font-size: 0.4em !important; }
+.text-05 { font-size: 0.5em !important; }
+.text-06 { font-size: 0.6em !important; }
+.text-07 { font-size: 0.7em !important; }
+.text-08 { font-size: 0.8em !important; }
+.text-09 { font-size: 0.9em !important; }
+.text-10 { font-size: 1.0em !important; }
+.text-11 { font-size: 1.1em !important; }
+.text-12 { font-size: 1.2em !important; }
+.text-13 { font-size: 1.3em !important; }
+.text-14 { font-size: 1.4em !important; }
+.text-15 { font-size: 1.5em !important; }
+.text-16 { font-size: 1.6em !important; }
+.text-17 { font-size: 1.7em !important; }
+.text-18 { font-size: 1.8em !important; }
+.text-19 { font-size: 1.9em !important; }
+.text-20 { font-size: 2.0em !important; }
+.text-21 { font-size: 2.1em !important; }
+.text-22 { font-size: 2.2em !important; }
+.text-23 { font-size: 2.3em !important; }
+.text-24 { font-size: 2.4em !important; }
+.text-25 { font-size: 2.5em !important; }
+.text-30 { font-size: 3.0em !important; }
+.text-35 { font-size: 3.5em !important; }
+.text-40 { font-size: 4.0em !important; }
+.text-45 { font-size: 4.5em !important; }
+.text-50 { font-size: 5.0em !important; }
+
+
+/** Text type **/
+.text-bold       { font-weight: bold !important; }
+.text-italic     { font-style: italic !important; }
+.text-italics    { font-style: italic !important; }
+.text-uppercase  { text-transform: uppercase !important; }
+.text-lowercase  { text-transform: lowercase !important; }
+.text-capitalize { text-transform: capitalize !important; }
+.text-smallcaps  { font-variant: small-caps !important; }
+
+
+
 /** Reveal.js Core Override Styles **/
 
 .reveal ol li {
@@ -293,4 +337,3 @@
   opacity: 0.75 !important;
   font-size: 50% !important;
 }
-
