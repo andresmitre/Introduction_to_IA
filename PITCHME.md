@@ -17,6 +17,11 @@
 Inteligencia Artificial: primeros pasos.<br>
 @snapend
 
+
+### @css[headline](ACME Corp Clearance Sale)
+
+#### @css[byline](Dynamite Deals - Short Fuses Included!)
+
 @css[headline](hola)
 @snap[south-west byline  text-white]
 *Centro de Investigación en Matemáticas (CIMAT),<br>*
