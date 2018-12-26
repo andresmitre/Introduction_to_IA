@@ -11,7 +11,7 @@ Inteligencia Artificial: primeros pasos.<br>
 @snapend
 
 ---
-@css[west h1-white text-20 span-40 text-bold](Inteligencia Artificial: primeros pasos)
+@css[west h1-white text-25 span-40 text-bold](Inteligencia Artificial: primeros pasos)
 
 @snap[south text-italics text-white span-100]
 For Everyone on GitHub, GitLab, and Bitbucket.
