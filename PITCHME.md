@@ -12,7 +12,7 @@ Inteligencia Artificial: primeros pasos.<br>
 
 ---
 
-@css[class-name](your-content)
+@css[PITCHME](your-content)
 
 ---
 
