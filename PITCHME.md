@@ -3,10 +3,10 @@
 
 @css[west text-white headline span-70 text-bold](Inteligencia Artificial: primeros pasos)
 
-@snap[west byline text-gold]
+@css[west byline text-gold]
 *Centro de Investigación en Matemáticas (CIMAT),<br>*
 *Human Centered Computer Lab (HCC)*
-@snapend
+
 
 
 ---?include=template/md/about/PITCHME.md
