@@ -3,10 +3,11 @@
 
 @css[west text-white headline span-70 text-bold](Inteligencia Artificial: primeros pasos)
 
-@css[west byline text-gold](http://en.wikipedia.org/wiki/Syntax_\(programming_languages\))
-
-
-(\(\ Centro de Investigación en Matemáticas (CIMAT <br>**Human Centered Computer Lab \(\HCC\)\*
+@snap[south-west byline  text-gold]
+*Andres Mitre,<br>*
+*Centro de Investigación en Matemáticas (CIMAT),<br>*
+*Human Centered Computer Lab (HCC)*
+@snapend
 
 
 ---?include=template/md/about/PITCHME.md
