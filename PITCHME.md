@@ -1,16 +1,7 @@
 [comment]: <> (sunrise)
 [comment]: <> (---?color=linear-gradient(to right, #c02425, #f0cb35))
 
-[comment]: <> (Frozen)
-[comment]: <> (---?color=linear-gradient(to right, #403B4A, #E7E9BB))
-
-[comment]: <> (Frozen)
-[comment]: <> (---?color=linear-gradient(to right, #403B4A, #E7E9BB))
-
-
 ---?color=linear-gradient(to right, #ffffff, #434343)
-
-
 @title[Introduction]
 
 @snap[west headline text-white span-70]
