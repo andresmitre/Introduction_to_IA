@@ -1,7 +1,7 @@
 ---?color=linear-gradient(to right, #000000, #434343)
 @title[Introduction]
 
-@css[west h1-white span-70 text-bold](Inteligencia Artificial: primeros pasos)
+@css[text-left h1-white span-70 text-bold](Inteligencia Artificial: primeros pasos)
 
 @snap[west byline text-gold]
 *Centro de Investigación en Matemáticas (CIMAT),<br>*
