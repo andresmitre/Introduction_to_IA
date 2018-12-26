@@ -11,14 +11,10 @@ Inteligencia Artificial: primeros pasos.<br>
 @snapend
 
 ---
+@css[text-white](The Markdown Presentation Service on Git)
+@css[headline](ACME Corp Clearance Sale)
 
-@css[PITCHME](your-content)
-
----
-
-### @css[headline](ACME Corp Clearance Sale)
-
-#### @css[byline](Dynamite Deals - Short Fuses Included!)
+@css[byline](Dynamite Deals - Short Fuses Included!)
 
 
 ---?include=template/md/about/PITCHME.md
