@@ -6,7 +6,7 @@
 +++?color=linear-gradient(to right, #485563, #29323c)
 @box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas. <br> Día 2. Navegando por clasificadores + Code: Matemática aplicada. <br> Día 3. Explorando la profundidad + Code: Aprendizaje.)
 
-
+@fa[arrow-down text-black]
 +++?color=linear-gradient(to right, #485563, #29323c) auto
 @title[Title + Concise List]
 
@@ -23,6 +23,7 @@ Día 1: Introducción a IA + Code: mis primeras neuronas
 <br><br>
 @snapend
 
+@fa[arrow-down text-black]
 +++?image=template/img/spotlight.png&position=top right&size=20% auto
 @title[Title + Concise List]
 
