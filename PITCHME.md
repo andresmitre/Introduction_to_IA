@@ -1,23 +1,25 @@
 ---?color=linear-gradient(to right, #000000, #434343)
 @title[Introduction]
 
-
 @snap[west headline text-white span-70]
 Inteligencia Artificial: primeros pasos.<br>
 @snapend
-
----
-
-@css[PITCHME](your-content)
-
-### @css[headline](ACME Corp Clearance Sale)
-
-#### @css[byline](Dynamite Deals - Short Fuses Included!)
 
 @snap[south-west byline  text-white]
 *Centro de Investigación en Matemáticas (CIMAT),<br>*
 *Human Centered Computer Lab (HCC)*
 @snapend
+
+---
+
+@css[class-name](your-content)
+
+---
+
+### @css[headline](ACME Corp Clearance Sale)
+
+#### @css[byline](Dynamite Deals - Short Fuses Included!)
+
 
 ---?include=template/md/about/PITCHME.md
 
