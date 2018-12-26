@@ -3,7 +3,7 @@
 
 @css[west text-white headline span-70 text-bold](Inteligencia Artificial: primeros pasos)
 
-@css[west byline text-gold](http://en.wikipedia.org/wiki/Syntax_%28(programming_languages%29)
+@css[west byline text-gold](http://en.wikipedia.org/wiki/Syntax_\(programming_languages\))
 
 
 (\(\ Centro de Investigación en Matemáticas (CIMAT <br>**Human Centered Computer Lab \(\HCC\)\*
