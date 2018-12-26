@@ -3,10 +3,13 @@
 
 @css[west text-white headline span-70 text-bold](Inteligencia Artificial: primeros pasos)
 
-@css[west byline text-gold]
-*Centro de Investigación en Matemáticas (CIMAT),<br>*
-*Human Centered Computer Lab (HCC)*
+@css[west byline text-gold](Centro de Investigación en Matemáticas\(CIMAT\))
 
+
+<br>**Human Centered Computer Lab \(\HCC\)\*
+
+
+(\(\ Centro de Investigación en Matemáticas (CIMAT <br>**Human Centered Computer Lab \(\HCC\)\*
 
 
 ---?include=template/md/about/PITCHME.md
