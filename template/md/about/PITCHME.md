@@ -4,23 +4,22 @@
 @css[text-center .text-capitalize text-white text-25](Agenda)
 
 +++?color=linear-gradient(to right, #485563, #29323c)
-@box[bg-white text-black rounded demo-box-pad](Day 1: Introducción a IA + Code: mis primeras neuronas <br> Day 2. Navegando por clasificadores + Code: Matemática aplicada <br> Day 3. Explorando la profundidad + Code: Aprendizaje.)
+@box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas <br> Día 2. Navegando por clasificadores + Code: Matemática aplicada <br> Día 3. Explorando la profundidad + Code: Aprendizaje.)
 
 
 
-+++?image=template/img/spotlight.png&position=top right&size=20% auto
++++?color=linear-gradient(to right, #485563, #29323c)
 @title[Title + Concise List]
 
 @snap[north-west]
-Características
+Día 1: Introducción a IA + Code: mis primeras neuronas
 @snapend
 
 @snap[south-west list-content-concise span-100]
 @ol[list-bullets-black](false)
-- Iluminación: luz natural, luz LED blanca.
-- Ventilación: ventana.
-- Espacio: 2x2 mts, colores neutros.
-- Organización: escritorio limpio y limpio.
+- ¿Qué es IA? Hipótesis, antecedentes.
+- Aplicaciones: ciencia y ficción vs realidad, proposito.*
+- ¿Por qué?  escritorio limpio y limpio.
 - Monitor: LCD 22 inches con buena altura.
 - Mouse: 9 botones configurable, mousepad.
 - Silla: estatica.
