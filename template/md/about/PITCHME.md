@@ -2,20 +2,17 @@
 @title[Agenda]
 
 @css[text-center .text-capitalize text-white text-25](Agenda)
+@fa[arrow-down text-black]
+@snap[south docslink span-50]
+[hello](https://gitpitch.com/docs/the-template)
+@snapend
+
+
 
 +++?color=linear-gradient(to right, #485563, #29323c)
 @box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas. <br> Día 2. Navegando por clasificadores + Code: Matemática aplicada. <br> Día 3. Explorando la profundidad + Code: Aprendizaje.)
 ---?image=template/img/8.jpg
 @title[List Content Templates]
-
-## @color[black](Características<br>de mi espacio)
-
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[x.x](https://gitpitch.com/docs/the-template)
-@snapend
-
 
 +++?image=template/img/spotlight.png&position=top right&size=20% auto
 @title[Title + Concise List]
