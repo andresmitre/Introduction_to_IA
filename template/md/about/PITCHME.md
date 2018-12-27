@@ -23,9 +23,12 @@ Día 1: Introducción a IA + Code: mis primeras neuronas
 
 @snap[west list-content-concise span-100]
 @ol
-- ¿Qué es IA? Hipótesis, antecedentes.
-- Aplicaciones: ciencia y ficción vs realidad, proposito.*
-- ¿Por qué?.
+- ¿Qué es IA? Hipótesis, antecedentes
+- Aplicaciones: ciencia y ficción vs realidad, proposito*
+- ¿Por qué?
+- Mundo de las ciencias de la computación
+- Inteligencia Artificial y sus vertientes
+-
 @olend
 <br><br>
 @snapend
