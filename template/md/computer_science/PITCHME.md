@@ -10,7 +10,7 @@
 +++?color=linear-gradient(to right, #485563, #29323c)
 @title[Map of Computer science]
 @snap[Center docslink span-50]
-[Map of Computer science](https://gitpitch.com/andresmitre/WorkStation/)
+[Map of Computer science](https://github.com/andresmitre/Introduction_to_IA/blob/master/template/img/computer_science.png)
 @snapend
 
 
