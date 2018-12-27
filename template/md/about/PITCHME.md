@@ -8,7 +8,7 @@
 
 @fa[arrow-down text-black]
 +++?color=linear-gradient(to right, #485563, #29323c) auto
-@title[Title + Concise List]
+@title[Title + List Fragments]
 
 @snap[north-west white]
 Día 1: Introducción a IA + Code: mis primeras neuronas
@@ -25,7 +25,7 @@ Día 1: Introducción a IA + Code: mis primeras neuronas
 
 @fa[arrow-down text-black]
 +++?image=template/img/spotlight.png&position=top right&size=20% auto
-@title[Title + Concise List]
+@title[Title + List Fragments]
 
 @snap[north-west]
 Características
