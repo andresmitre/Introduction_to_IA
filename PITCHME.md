@@ -5,9 +5,9 @@
 
 ---?include=template/md/about/PITCHME.md
 
----?include=template/md/announcement/PITCHME_Template.md
-
 ---?include=template/md/computer_science/PITCHME.md
+
+---?include=template/md/announcement/PITCHME_Template.md
 
 ---?include=template/md/code-presenting/PITCHME.md
 
