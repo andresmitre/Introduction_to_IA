@@ -1,8 +1,11 @@
 ---?color=linear-gradient(to right, #485563, #29323c)
 @title[Agenda]
 
-@css[text-center .text-capitalize text-white text-25](Agenda)
-@fa[arrow-down text-black]
+@css[text-center .text-capitalize text-white text-25](Agenda)<br>
+
+
+@fa[arrow-down text-white]
+
 @snap[south docslink span-50]
 [hello](https://gitpitch.com/docs/the-template)
 @snapend
