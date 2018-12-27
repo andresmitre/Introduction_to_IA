@@ -21,11 +21,11 @@
 Día 1: Introducción a IA + Code: mis primeras neuronas
 @snapend
 
-@snap[south-west list-content-concise span-100]
+@snap[west white list-content-concise span-100]
 @ol
 - ¿Qué es IA? Hipótesis, antecedentes.
 - Aplicaciones: ciencia y ficción vs realidad, proposito.*
-- ¿Por qué? escritorio limpio y limpio.
+- ¿Por qué?.
 @olend
 <br><br>
 @snapend
