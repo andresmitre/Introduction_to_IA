@@ -14,14 +14,14 @@
 +++?color=linear-gradient(to right, #485563, #29323c)
 @box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas. <br> Día 2. Navegando por clasificadores + Code: Matemática aplicada. <br> Día 3. Explorando la profundidad + Code: Aprendizaje.)
 
-+++?color=linear-gradient(to right, #485563, #29323c)
-@title[Title + List Fragments]
++++
+@title[Agenda: día 1]
 
 @snap[north-west]
 Día 1: Introducción a IA + Code: mis primeras neuronas
 @snapend
 
-@snap[west white list-content-concise span-100]
+@snap[west list-content-concise span-100]
 @ol
 - ¿Qué es IA? Hipótesis, antecedentes.
 - Aplicaciones: ciencia y ficción vs realidad, proposito.*
