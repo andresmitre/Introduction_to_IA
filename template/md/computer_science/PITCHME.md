@@ -2,18 +2,15 @@
 @title[Computer science]
 
 @css[text-center .text-capitalize text-white text-25](Computer science)<br>
+@fa[arrow-down text-white]
 
 
-@snap[south docslink span-50]
-[Andres Mitre](https://gitpitch.com/andresmitre/WorkStation/)
-@snapend
-
-+++?image=template/img/computer_science.jpg
-@title[Positioned Background]
 
 
-@snap[north-east template-note text-gray]
-Human-Centered Computer Lab @color[red](HCC - CIMAT)
++++?color=linear-gradient(to right, #485563, #29323c)
+@title[Map of Computer science]
+@snap[Center docslink span-50]
+[Map of Computer science](https://gitpitch.com/andresmitre/WorkStation/)
 @snapend
 
 
