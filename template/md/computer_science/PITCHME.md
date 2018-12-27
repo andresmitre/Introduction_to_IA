@@ -1,9 +1,8 @@
----?image=template/img/8.jpg
-@title[Image Templates]
+---?color=linear-gradient(to right, #485563, #29323c)
+@title[Computer science]
 
-## @color[black](Ilustraciones del<br>area de trabajoe)
+@css[text-center .text-capitalize text-white text-25](Computer science)<br>
 
-@fa[arrow-down text-black]
 
 @snap[south docslink span-50]
 [Andres Mitre](https://gitpitch.com/andresmitre/WorkStation/)
@@ -59,4 +58,3 @@ Ethernet, Second screen, Mouse, Headphones.
 @snap[north-east template-note text-gray]
 Fixed position background image template.
 @snapend
-

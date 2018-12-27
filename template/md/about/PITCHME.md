@@ -12,6 +12,7 @@
 
 
 +++?color=linear-gradient(to right, #485563, #29323c)
+@title[Agenda: curso]
 @box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas. <br> Día 2. Navegando por clasificadores + Code: Matemática aplicada. <br> Día 3. Explorando la profundidad + Code: Aprendizaje.)
 
 +++
