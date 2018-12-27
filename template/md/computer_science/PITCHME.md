@@ -8,7 +8,7 @@
 [Andres Mitre](https://gitpitch.com/andresmitre/WorkStation/)
 @snapend
 
-+++?image=template/img/7.jpg
++++?image=template/img/computer_science.png
 @title[Positioned Background]
 
 
