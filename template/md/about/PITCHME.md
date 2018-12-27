@@ -5,27 +5,20 @@
 
 +++?color=linear-gradient(to right, #485563, #29323c)
 @box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas. <br> Día 2. Navegando por clasificadores + Code: Matemática aplicada. <br> Día 3. Explorando la profundidad + Code: Aprendizaje.)
+---?image=template/img/8.jpg
+@title[List Content Templates]
+
+## @color[black](Características<br>de mi espacio)
 
 @fa[arrow-down text-black]
-+++?color=linear-gradient(to right, #485563, #29323c) auto
-@title[Title + List Fragments]
 
-@snap[north-west white]
-Día 1: Introducción a IA + Code: mis primeras neuronas
+@snap[south docslink span-50]
+[x.x](https://gitpitch.com/docs/the-template)
 @snapend
 
-@snap[south-west list-content-concise span-100]
-@ol[list-bullets-white](false)
-- ¿Qué es IA? Hipótesis, antecedentes.
-- Aplicaciones: ciencia y ficción vs realidad, proposito.*
-- ¿Por qué?  escritorio limpio y limpio.
-@olend
-<br><br>
-@snapend
 
-@fa[arrow-down text-black]
 +++?image=template/img/spotlight.png&position=top right&size=20% auto
-@title[Title + List Fragments]
+@title[Title + Concise List]
 
 @snap[north-west]
 Características
@@ -45,6 +38,21 @@ Características
 @snapend
 
 
-+++?color=linear-gradient(to right, #485563, #29323c)
-@title[Watson]
-![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
++++?image=template/img/spotlight.png&position=top right&size=20% auto
+@title[Title + List Fragments]
+
+@snap[north-west]
+Necesidades
+@snapend
+
+@snap[south-west list-content-concise span-100]
+@ol
+- Espacio adecuado: planta.
+- Organización: Cajones.
+- Monitor: LED, brazo mecanico.
+- Teclado y mouse.
+- Silla.
+- Bocinas.
+@olend
+<br><br>
+@snapend
