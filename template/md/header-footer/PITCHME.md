@@ -27,6 +27,11 @@ Investigadores ven la @color[#e49436](IA) como...
 @quote[El arte de crear maquínas que ejecucten funciones que requieren inteligencia al desarrollarse por personas.](Kurzweil, 1990)
 @snapend
 
+Note:
+
+- Los autores definen IA como un **procesamiento** and **razonamiento**.
+
+
 
 +++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Quote Cloud]
@@ -41,6 +46,12 @@ Investigadores ven la @color[#e49436](IA) como...
 @size[0.8em]
 @quote[Rama de la ciencias de la computación que concentra el comportamiento inteligente de la automatización.](Luger  and Stubblefield, 1993)
 @snapend
+
+Note:
+
+- Definición del comportamiento de un sistema inteligente.
+
+
 
 
 
