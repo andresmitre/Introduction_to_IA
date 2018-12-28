@@ -4,19 +4,10 @@
 
 <br>
 
-## @color[#e49436](¿)Qué es IA ## @color[#e49436](?)
+## @color[#e49436](¿)Qué es IA @color[#e49436](?)
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
----?image=template/img/pencils.jpg
-@title[Header + Footer Templates]
-
-## @color[black](Header & Footer<br>Slide Templates)
-
 @fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
 
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
