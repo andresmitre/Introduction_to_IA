@@ -1,4 +1,4 @@
----?image=assets/images/ML_brain.png&position=left&size=55% 100%
+---?image=template/img/ML_brain.png&position=left&size=55% 100%
 
 @title[Get Ready]
 
