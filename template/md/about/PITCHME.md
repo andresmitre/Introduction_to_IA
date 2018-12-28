@@ -29,7 +29,6 @@ Día 1: Introducción a IA + Code: mis primeras neuronas
 - Aplicaciones: ciencia y ficción vs realidad, proposito*
 - ¿Por qué?
 - Inteligencia Artificial y sus vertientes
--
 @olend
 <br><br>
 @snapend

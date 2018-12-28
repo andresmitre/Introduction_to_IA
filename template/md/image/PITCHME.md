@@ -1,4 +1,4 @@
----?image=template/img/8.jpg
+---?image=template/img/8.jpg&position=left&size=10% 100%
 @title[Image Templates]
 
 ## @color[black](Ilustraciones del<br>area de trabajoe)
@@ -59,4 +59,3 @@ Ethernet, Second screen, Mouse, Headphones.
 @snap[north-east template-note text-gray]
 Fixed position background image template.
 @snapend
-
