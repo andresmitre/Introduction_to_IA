@@ -9,6 +9,31 @@
 
 @fa[arrow-down text-black]
 
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+@title[Quote Cloud]
+
+
+
+@snap[north-west span-50]
+@quote[El esfuerzo de hacer un ordenador pensar. . .maquínas con mente, en el completo y literal sentido.](Haugeland, 1985)
+@snapend
+
+@snap[north-east span-50]
+@quote[El arte de crear maquínas que ejecucten funciones que requieren inteligencia al desarrollarse por personas.](Kurzweil, 1990)
+@snapend
+
+@snap[south-east span-50]
+@quote[El estudio de computación que hace posible percevir, razonar y actuar.](Winston, 1992)
+@snapend
+
+@snap[south-west span-50]
+@quote[Rama de la ciencias de la computación que concentra el comportamiento inteligente de la automatización.](Luger  and Stubblefield,, 1993)
+@snapend
+
+@snap[north-west template-note text-black]
+Quotation cloud template.
+@snapend
+
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @title[Header Bar + Image Body]
