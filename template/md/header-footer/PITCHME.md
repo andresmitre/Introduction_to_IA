@@ -18,7 +18,7 @@ Investigadores ven la @color[#e49436](IA) como...
 
 <br>
 
-@snap[north-west]
+@snap[north]
 @size[1.5em]
 @quote[El esfuerzo de hacer un ordenador pensar. . .maquínas con mente, en el completo y literal sentido.](Haugeland, 1985)
 @snapend
