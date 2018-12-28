@@ -1,4 +1,4 @@
----?image=template/img/ML_background.png
+---?image=template/img/ML_background.jpg
 @title[Announcement Templates]
 
 ## @color[black](Announcement<br>Slide Templates)

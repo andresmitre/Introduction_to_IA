@@ -1,4 +1,4 @@
----?image=template/img/ML_background.png
+---?image=template/img/ML_background.jpg
 
 @title[Get Ready]
 
