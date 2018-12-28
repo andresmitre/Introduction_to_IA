@@ -1,4 +1,4 @@
----?image=template/img/ML_background.png&position=left&size=55% 100%
+---?image=template/img/ML_background.png
 
 @title[Get Ready]
 
