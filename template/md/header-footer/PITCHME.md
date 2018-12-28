@@ -1,12 +1,10 @@
 ---?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 
-#ECE9E6
-
 @title[Get Ready]
 
 <br>
 
-## @color[#e49436](Git)Pitch
+## @color[#e49436](¿)Qué es IA ## @color[#e49436](?)
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
 ---?image=template/img/pencils.jpg
