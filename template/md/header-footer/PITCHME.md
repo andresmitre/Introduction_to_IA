@@ -18,12 +18,11 @@ Investigadores ven la @color[#e49436](IA) como...
 
 <br>
 
-@snap[north]
+
 @size[1.5em]
 @quote[El esfuerzo de hacer un ordenador pensar. . .maquínas con mente, en el completo y literal sentido.](Haugeland, 1985)
 @snapend
 
-@snap[south-east]
 @size[0.5em]
 @quote[El arte de crear maquínas que ejecucten funciones que requieren inteligencia al desarrollarse por personas.](Kurzweil, 1990)
 @snapend
