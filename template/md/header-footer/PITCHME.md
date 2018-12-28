@@ -10,21 +10,28 @@
 @fa[arrow-down text-black]
 
 +++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
-@title[Quote Cloud]
+@title[Definición IA]
 
-
+@snap[north-west template-note text-black]
+Investigadores ven la @color[#e49436](IA) como...
+@snapend
 
 @snap[north-west]
 @size[1.5em]
 @quote[El esfuerzo de hacer un ordenador pensar. . .maquínas con mente, en el completo y literal sentido.](Haugeland, 1985)
 @snapend
 
-@snap[north-east]
+@snap[south-east]
 @size[0.5em]
 @quote[El arte de crear maquínas que ejecucten funciones que requieren inteligencia al desarrollarse por personas.](Kurzweil, 1990)
 @snapend
 
-@snap[south-east]
+
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+@title[Quote Cloud]
+
+
+@snap[north-east]
 @size[1em]
 @quote[El estudio de computación que hace posible percevir, razonar y actuar.](Winston, 1992)
 @snapend
@@ -34,9 +41,6 @@
 @quote[Rama de la ciencias de la computación que concentra el comportamiento inteligente de la automatización.](Luger  and Stubblefield,, 1993)
 @snapend
 
-@snap[north-west template-note text-black]
-Quotation cloud template.
-@snapend
 
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
