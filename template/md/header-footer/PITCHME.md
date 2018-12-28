@@ -14,19 +14,23 @@
 
 
 
-@snap[north-west span-50]
+@snap[north-west]
+@size[1.5em]
 @quote[El esfuerzo de hacer un ordenador pensar. . .maquínas con mente, en el completo y literal sentido.](Haugeland, 1985)
 @snapend
 
-@snap[north-east span-50]
+@snap[north-east]
+@size[0.5em]
 @quote[El arte de crear maquínas que ejecucten funciones que requieren inteligencia al desarrollarse por personas.](Kurzweil, 1990)
 @snapend
 
-@snap[south-east span-50]
+@snap[south-east]
+@size[1em]
 @quote[El estudio de computación que hace posible percevir, razonar y actuar.](Winston, 1992)
 @snapend
 
-@snap[south-west span-50]
+@snap[south-west]
+@size[0.8em]
 @quote[Rama de la ciencias de la computación que concentra el comportamiento inteligente de la automatización.](Luger  and Stubblefield,, 1993)
 @snapend
 

@@ -9,10 +9,3 @@
 @snap[midpoint docslink text-white span-50]
 [Map of Computer science](https://github.com/andresmitre/Introduction_to_IA/blob/master/template/img/)
 @snapend
-
-
-Note:
-
-- Offers a wide-range of enhanced presentation **tools** and **features**
-- Both on the desktop and in the cloud
-- Learn more on the GitPitch website at https://gitpitch.com
