@@ -1,4 +1,4 @@
----?image=template/img/ML_background.jpg
+---?color=linear-gradient(to down, #ECE9E6, #FFFFFF)
 @title[Announcement Templates]
 
 ## @color[black](Announcement<br>Slide Templates)
