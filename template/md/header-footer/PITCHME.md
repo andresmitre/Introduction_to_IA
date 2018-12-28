@@ -16,6 +16,8 @@
 Investigadores ven la @color[#e49436](IA) como...
 @snapend
 
+<br>
+
 @snap[north-west]
 @size[1.5em]
 @quote[El esfuerzo de hacer un ordenador pensar. . .maquínas con mente, en el completo y literal sentido.](Haugeland, 1985)
@@ -38,7 +40,7 @@ Investigadores ven la @color[#e49436](IA) como...
 
 @snap[south-west]
 @size[0.8em]
-@quote[Rama de la ciencias de la computación que concentra el comportamiento inteligente de la automatización.](Luger  and Stubblefield,, 1993)
+@quote[Rama de la ciencias de la computación que concentra el comportamiento inteligente de la automatización.](Luger  and Stubblefield, 1993)
 @snapend
 
 
