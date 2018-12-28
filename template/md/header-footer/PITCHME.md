@@ -1,6 +1,6 @@
 ---?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 
-@title[Get Ready]
+@title[¿Qué es IA?]
 
 <br>
 

@@ -4,7 +4,6 @@
 @css[text-center .text-capitalize text-white text-25](Agenda)<br>
 
 
-@fa[arrow-down text-white]
 
 @snap[south docslink span-50]
 [hello](https://gitpitch.com/docs/the-template)
