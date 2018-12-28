@@ -1,3 +1,12 @@
+---?image=assets/images/ML_brain.png&position=left&size=55% 100%
+
+@title[Get Ready]
+
+<br>
+
+## @color[#e49436](Git)Pitch
+#### Presentation @fa[magic] @color[#e49436](Magic)
+
 ---?image=template/img/pencils.jpg
 @title[Header + Footer Templates]
 
