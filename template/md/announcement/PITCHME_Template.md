@@ -1,4 +1,4 @@
----?color=linear-gradient(to down, #ECE9E6, #FFFFFF)
+---?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Announcement Templates]
 
 ## @color[black](Announcement<br>Slide Templates)

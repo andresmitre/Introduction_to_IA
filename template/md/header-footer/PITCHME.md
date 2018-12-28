@@ -1,4 +1,6 @@
----?image=template/img/ML_background.jpg
+---?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+
+#ECE9E6
 
 @title[Get Ready]
 
