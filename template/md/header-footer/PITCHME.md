@@ -87,12 +87,46 @@ Note:
   <tr class="fragment">
     <td>1951</td>
     <td>Primera red neuronal SNARC</td>
+</table>
+
+
+
+
+@snap[north]
+@color[#e49436](Historia)...
+@snapend
+
+<table>
+  <tr>
+  <td>1957</td>
+  <td>Perceptron</td>
+  </tr>
+  <tr>
+    <td>1763</td>
+    <td>bases del teorema de Bayes</td>
   </tr>
   <tr class="fragment">
-    <td>1957</td>
-    <td>Perceptron</td>
+    <td>1805</td>
+    <td>Metodo de minimos cuadrados</td>
+  </tr>
+  <tr class="fragment">
+    <td>1812</td>
+    <td>Teorema de Bayes</td>
+  </tr>
+  <tr class="fragment">
+    <td>1913</td>
+    <td>Cadenas de Markov</td>
+  </tr>
+  <tr class="fragment">
+    <td>1950</td>
+    <td>Turing Machine</td>
+  </tr>
+  <tr class="fragment">
+    <td>1951</td>
+    <td>Primera red neuronal SNARC</td>
   </tr>
 </table>
+
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @title[Header Bar + Image Body]
