@@ -50,28 +50,37 @@ Note:
 
 - Definición del comportamiento de un sistema inteligente.
 
----
-<canvas data-chart="line">
-<!--
-{
- "data": {
-  "labels": ["January"," February"," March"," April"," May"," June"," July"],
-  "datasets": [
-   {
-    "data":[65,59,80,81,56,55,40],
-    "label":"My first dataset","backgroundColor":"rgba(20,220,220,.8)"
-   },
-   {
-    "data":[28,48,40,19,86,27,90],
-    "label":"My second dataset","backgroundColor":"rgba(220,120,120,.8)"
-   }
-  ]
- },
- "options": { "responsive": "true" }
-}
--->
-</canvas>
 
++++
+@title[Table Content Fragments]
+
+
+@snap[north]
+Table Data Fragments
+@snapend
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>25</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>43</td>
+  </tr>
+</table>
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @title[Header Bar + Image Body]
