@@ -61,24 +61,24 @@ Table Data Fragments
 
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Año</th>
+    <th>Acontecimiento</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>25</td>
+    <td>1763</td>
+    <td>bases del teorema de Bayes</td>
   </tr>
   <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>1805</td>
+    <td>Metodo de minimos cuadrados</td>
   </tr>
   <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>43</td>
+    <td>1812</td>
+    <td>Teorema de Bayes</td>
+  </tr>
+  <tr class="fragment">
+    <td>1913</td>
+    <td>Cadenas de Markov</td>
   </tr>
 </table>
 
