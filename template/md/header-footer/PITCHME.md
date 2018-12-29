@@ -100,12 +100,12 @@ Note:
 
 <table>
   <tr>
-    <th>Año</th>
-    <th>Acontecimiento</th>
+  <td>1956</td>
+  <td>Conferencia de Darthmouth (IA)</td>
   </tr>
   <tr>
-    <td>1763</td>
-    <td>bases del teorema de Bayes</td>
+    <td>1958</td>
+    <td>Lenguaje LIST</td>
   </tr>
   <tr class="fragment">
     <td>1805</td>
