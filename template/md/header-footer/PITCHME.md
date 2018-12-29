@@ -52,11 +52,11 @@ Note:
 
 
 +++
-@title[Table Content Fragments]
+@title[Historia de la IA]
 
 
 @snap[north]
-Table Data Fragments
+@color[#e49436](Historia)...
 @snapend
 
 <table>
@@ -79,6 +79,18 @@ Table Data Fragments
   <tr class="fragment">
     <td>1913</td>
     <td>Cadenas de Markov</td>
+  </tr>
+  <tr class="fragment">
+    <td>1950</td>
+    <td>Turing Machine</td>
+  </tr>
+  <tr class="fragment">
+    <td>1951</td>
+    <td>Primera red neuronal SNARC</td>
+  </tr>
+  <tr class="fragment">
+    <td>1957</td>
+    <td>Perceptron</td>
   </tr>
 </table>
 
