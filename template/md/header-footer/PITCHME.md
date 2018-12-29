@@ -51,7 +51,7 @@ Note:
 - Definición del comportamiento de un sistema inteligente.
 
 
-+++
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Historia de la IA]
 
 
@@ -90,20 +90,20 @@ Note:
 </table>
 
 +++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+@title[Historia de la IA (2)]
 
+Note:
 
-@snap[north]
-@color[#e49436](Historia)...
-@snapend
+- Lisp fue creado originalmente como una notación matemática práctica para los programas de computadora, basada en el cálculo lambda de Alonzo Church. Se convirtió rápidamente en el lenguaje de programación favorito en la investigación de la inteligencia artificial (AI).
 
 <table>
   <tr>
-  <td>1957</td>
-  <td>Perceptron</td>
+  <td>1956</td>
+  <td>Conferencia de Darthmouth (IA)</td>
   </tr>
   <tr>
-    <td>1763</td>
-    <td>bases del teorema de Bayes</td>
+    <td>1758</td>
+    <td>LISTbases del teorema de Bayes</td>
   </tr>
   <tr class="fragment">
     <td>1805</td>
