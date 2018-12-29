@@ -89,7 +89,7 @@ Note:
     <td>Primera red neuronal SNARC</td>
 </table>
 
-
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 
 
 @snap[north]
