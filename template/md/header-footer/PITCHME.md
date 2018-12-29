@@ -108,27 +108,34 @@ Note:
     <td>Lenguaje LIST</td>
   </tr>
   <tr class="fragment">
-    <td>1805</td>
-    <td>Metodo de minimos cuadrados</td>
+    <td>1966*</td>
+    <td>Fallo de maquína de traducción</td>
   </tr>
   <tr class="fragment">
-    <td>1812</td>
-    <td>Teorema de Bayes</td>
+    <<td>1967*</td>
+    <td>Nearest Neighbor Algorithm</td>
   </tr>
   <tr class="fragment">
-    <td>1913</td>
-    <td>Cadenas de Markov</td>
+    <td>1969*</td>
+    <td>Abandono de la conexión</td>
   </tr>
   <tr class="fragment">
-    <td>1950</td>
-    <td>Turing Machine</td>
+    <td>1973*</td>
+    <td>Reporte de Lighthill</td>
   </tr>
   <tr class="fragment">
-    <td>1951</td>
-    <td>Primera red neuronal SNARC</td>
+    <td>1970s</td>
+    <td>Frustación DARPA</td>
   </tr>
 </table>
 
+
+Note:
+
+- LISP: notación matemática, basada en el cálculo lambda.
+- Abandono de conexión: Investgaores buscaron razonamiento lógico como la escencia de la inteligencia.
+- Lighthill: reporte solicitado por la UK sobre avances en IA.
+- DARPA: Dinero obtenido para sus beneficios y no proyectos.
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @title[Header Bar + Image Body]
