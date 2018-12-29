@@ -89,12 +89,14 @@ Note:
     <td>Primera red neuronal SNARC</td>
 </table>
 
+Note:
+
+- Lisp fue creaddo como una notación matemática, basada en el cálculo lambda de Alonzo Church. Se convirtió rápidamente en el lenguaje de programación favorito en la investigación de la inteligencia artificial (AI).
+
 +++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Historia de la IA (2)]
 
-Note:
 
-- Lisp fue creado originalmente como una notación matemática práctica para los programas de computadora, basada en el cálculo lambda de Alonzo Church. Se convirtió rápidamente en el lenguaje de programación favorito en la investigación de la inteligencia artificial (AI).
 
 <table>
   <tr>
@@ -103,7 +105,7 @@ Note:
   </tr>
   <tr>
     <td>1758</td>
-    <td>LISTbases del teorema de Bayes</td>
+    <td>Lenguaje LIST</td>
   </tr>
   <tr class="fragment">
     <td>1805</td>
