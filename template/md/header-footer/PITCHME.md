@@ -145,16 +145,16 @@ Note:
 
 <table>
   <tr>
-  <td>1956</td>
-  <td>Conferencia de Darthmouth (IA)</td>
-  </tr>
-  <tr class="fragment">
     <td>1974'</td>
     <td>Cancelación de fondeo a la investigación IA</td>
   </tr>
   <tr class="fragment">
     <td>1987'</td>
     <td>Fallo de maquína de traducción</td>
+  </tr>
+  <tr class="fragment">
+    <td>1987'</td>
+    <td>Apple y IBM a la cima</td>
   </tr>
   <tr class="fragment">
     <td>1988'</td>
@@ -171,6 +171,7 @@ Note:
 Note:
 
 - 5th: objetivo era el desarrollo de una nueva **clase** de computadoras que utilizarían técnicas y tecnologías de **inteligencia artificial**
+- Apple e IBM: Se convirtieron en las maquínas mas poderosas venciendo a las maquínas LISP mas caras.
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @title[Header Bar + Image Body]
