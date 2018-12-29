@@ -104,27 +104,27 @@ Note:
   <td>Conferencia de Darthmouth (IA)</td>
   </tr>
   <tr>
-    <td>1758</td>
+    <td>1958</td>
     <td>Lenguaje LIST</td>
   </tr>
   <tr class="fragment">
-    <td>1966*</td>
+    <td>1966'</td>
     <td>Fallo de maquína de traducción</td>
   </tr>
   <tr class="fragment">
-    <<td>1967*</td>
+    <<td>1967'</td>
     <td>Nearest Neighbor Algorithm</td>
   </tr>
   <tr class="fragment">s
-    <td>1969*</td>
+    <td>1969'</td>
     <td>Abandono de la conexión</td>
   </tr>
   <tr class="fragment">
-    <td>**1973**s</td>
+    <td>1973'</td>
     <td>Reporte de Lighthill</td>
   </tr>
   <tr class="fragment">
-    <td>1970s</td>
+    <td>1970s'</td>
     <td>Frustación DARPA</td>
   </tr>
 </table>
