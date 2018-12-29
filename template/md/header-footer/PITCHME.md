@@ -115,12 +115,12 @@ Note:
     <<td>1967*</td>
     <td>Nearest Neighbor Algorithm</td>
   </tr>
-  <tr class="fragment">
+  <tr class="fragment">s
     <td>1969*</td>
     <td>Abandono de la conexión</td>
   </tr>
   <tr class="fragment">
-    <td>1973*</td>
+    <td>**1973**s</td>
     <td>Reporte de Lighthill</td>
   </tr>
   <tr class="fragment">
