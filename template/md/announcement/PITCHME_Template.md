@@ -1,5 +1,18 @@
 ---?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
-@title[Announcement Templates]
+
+@title[Ciencia ficción vs realidad]
+
+<br>
+
+##  Ciencia ficción @color[#e49436](vs.) realidad
+#### Presentation @fa[magic] @color[#e49436](Magic)
+
+@fa[arrow-down text-black]
+
+
+---?image=template/img/Terminator.jpg&position=left&size=55% 100%
+@title[Ciencia ficción]
+
 
 ## @color[black](Announcement<br>Slide Templates)
 
