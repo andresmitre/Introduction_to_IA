@@ -10,17 +10,10 @@
 @fa[arrow-down text-black]
 
 
-+++?image=template/img/Terminator.jpg&position=left&size=25% 50%
++++?image=template/img/Terminator.jpg&position=south-east&size=25% 50%
++++?image=template/img/Ex_machina.jpeg&position=north-east&size=25% 50%
 @title[Ciencia ficción]
 
-
-## @color[black](Announcement<br>Slide Templates)
-
-@fa[arrow-down text-black]
-
-@snap[south docslink span-50]
-[The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
 
 
 +++
