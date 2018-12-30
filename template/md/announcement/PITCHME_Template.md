@@ -10,7 +10,7 @@
 @fa[arrow-down text-black]
 
 
-+++?image=template/img/Terminator.jpg&position=left&size=20% 100%
++++?image=template/img/Terminator.jpg&position=left&size=25% 50%
 @title[Ciencia ficción]
 
 
