@@ -14,7 +14,7 @@
 @title[Ciencia ficción]
 
 
-+++
++++?color=linear-gradient(to bottom, #000000, #434343)
 @css[title-top-right](AV)
 
 ![Gravity](https://www.youtube.com/embed/mkiDkkdGGAQ)
