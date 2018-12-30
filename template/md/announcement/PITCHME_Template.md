@@ -10,7 +10,7 @@
 @fa[arrow-down text-black]
 
 
-+++?image=template/img/Movies.jpg&position=midpoint&size=100% 100%
++++?image=template/img/Movies.jpg&position=midpoint&size=95% 95%
 @title[Ciencia ficción]
 
 
