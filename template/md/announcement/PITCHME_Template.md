@@ -15,9 +15,10 @@
 
 
 +++
-@css[title-top-right](AV)
-
+@title[Big News Teaser]
 ![Gravity](https://www.youtube.com/watch?v=PjH_1hEoIDs)
+
+
 +++
 @title[Big News Teaser]
 
