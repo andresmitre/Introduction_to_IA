@@ -15,9 +15,9 @@
 
 
 +++
-@title[Big News Teaser]
-![Gravity](https://www.youtube.com/watch?v=PjH_1hEoIDs)
+@css[title-top-right](AV)
 
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 +++
 @title[Big News Teaser]
