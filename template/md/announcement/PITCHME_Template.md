@@ -17,7 +17,7 @@
 +++
 @css[title-top-right](AV)
 
-![Video](https://www.youtube.com/watch?v=PjH_1hEoIDs)
+![Gravity](https://www.youtube.com/watch?v=PjH_1hEoIDs)
 +++
 @title[Big News Teaser]
 
