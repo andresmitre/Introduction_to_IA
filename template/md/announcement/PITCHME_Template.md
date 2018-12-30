@@ -17,7 +17,7 @@
 +++?color=linear-gradient(to bottom, #000000, #434343)
 @css[title-top-right](AV)
 
-![Gravity](https://www.youtube.com/embed/mkiDkkdGGAQ)
+![Gravity](https://youtu.be/PjH_1hEoIDs)
 
 +++
 @title[Big News Teaser]
