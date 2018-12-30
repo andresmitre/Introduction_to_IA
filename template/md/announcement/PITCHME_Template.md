@@ -14,10 +14,10 @@
 @title[Ciencia ficción]
 
 
-+++?color=linear-gradient(to bottom, #000000, #434343)
++++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
 @css[title-top-right](AV)
 
-![Gravity](https://youtu.be/PjH_1hEoIDs)
+![Gravity](https://www.youtube.com/embed/PjH_1hEoIDs)
 
 +++
 @title[Big News Teaser]
