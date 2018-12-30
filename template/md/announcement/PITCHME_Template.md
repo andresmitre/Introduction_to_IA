@@ -30,3 +30,5 @@
 @title[AV]
 @css[title-top-right](AV)
 ![Video](https://www.youtube.com/embed/PjH_1hEoIDs)
+
+---?image=template/img/ML_mindmap.png&position=left&size=10% 100%
