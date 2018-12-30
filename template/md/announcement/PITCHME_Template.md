@@ -10,8 +10,7 @@
 @fa[arrow-down text-black]
 
 
-+++?image=template/img/Terminator.jpg&position=south-east&size=25% 50%
-+++?image=template/img/Ex_machina.jpeg&position=north-east&size=25% 50%
++++?image=template/img/Movies.jpg&position=midpoint&size=100% 100%
 @title[Ciencia ficción]
 
 
