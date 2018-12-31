@@ -42,8 +42,7 @@ Header bar with image body template.
 <br><br>
 @snapend
 
-
-+++?image=template/img/NLP.png
++++?image=template/img/batman.NLP&size=auto 75%&repeat=repeat-x&color=#485563
 @title[NLP frequency]
 
 
