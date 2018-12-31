@@ -118,29 +118,9 @@ Note:
 ![DATAFLOW](template/img/cheetah.gif)
 @snapende
 
-+++?image=template/img/bg/black.jpg&position=top&size=100% 20%
-@title[Vision]
-
-@snap[north text-white span-100]
-@size[1.5em](Vision)
-@snapend
-
-@snap[south span-100]
-@ol[bullet-green](false)s
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor
-- Ut enim ad minim veniam
-- Duis aute irure dolor in
-- Excepteur sint occaecat
-- Cupidatat non proident
-- Sunt in culpa qui officia
-@olend
-<br><br>
-@snapend
-
-@snap[south-west template-note text-gray]
-Header bar with list body template.
-@snapend
++++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
+@title[Boston dynamics]
+![Gravity](https://www.youtube.com/embed/qv6UVOQ0F44)
 
 
 +++?image=template/img/bg/black.jpg&position=center&size=100% 65%
