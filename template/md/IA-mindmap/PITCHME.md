@@ -110,10 +110,13 @@ Note:
 @snapend
 
 
-+++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
-@title[Boston Dynamics]
-![Gravity](https://www.youtube.com/embed/LikxFZZO2sk)
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+@title[Ejemplos]
 
+@snap[midpoint span-100]
+<br>
+![DATAFLOW](template/img/cheetah.gif)
+@snapende
 
 +++?image=template/img/bg/black.jpg&position=top&size=100% 20%
 @title[Vision]
@@ -123,7 +126,7 @@ Note:
 @snapend
 
 @snap[south span-100]
-@ol[bullet-green](false)
+@ol[bullet-green](false)s
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
 - Ut enim ad minim veniam
