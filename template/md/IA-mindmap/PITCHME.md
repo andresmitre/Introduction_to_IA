@@ -115,21 +115,17 @@ Note:
 ![Gravity](https://www.youtube.com/embed/LikxFZZO2sk)
 
 
-+++?image=template/img/bg/black.jpg&position=center&size=100% 65%
++++?image=template/img/bg/purple.jpg&position=center&size=100% 65%
 @title[Machine Learning]
 
 @snap[north span-100]
-@size[1.5em](Machine Learning)
+@size[1.5em](Machine Learning-ML)
 @snapend
 
 @snap[midpoint text-white span-100]
 @ul[header-footer-list-shrink](false)
-- Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-@snapend
-
-@snap[south-west template-note text-gray]
-Center bar with list body template.
+- Tareas especificas
+- Supervisidas
+- No supervisadas
+- Aprendizaje por refuerzo
 @snapend
