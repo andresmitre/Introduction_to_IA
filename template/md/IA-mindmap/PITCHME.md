@@ -83,6 +83,20 @@ Note:
 <br><br>
 @snapend
 
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+@title[Ejemplos]
+
+@snap[north-east span-100]
+<br>
+![DATAFLOW](template/img/Drone.jpg)
+@snapend
+
+
+@snap[south-east span-100]
+<br>
+![DATAFLOW](template/img/cheetagh.gif)
+@snapend
+
 
 +++?image=template/img/bg/black.jpg&position=top&size=100% 20%
 @title[Vision]
