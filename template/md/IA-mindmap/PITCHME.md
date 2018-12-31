@@ -19,17 +19,7 @@ Note:
 - Los autores definen IA como un **procesamiento** and **razonamiento**.
 
 
-
-+++?image=template/img/batman.png&size=auto 100%&repeat=repeat-x&color=#485563
-
-@title[Crecimiento de IA]
-@snap[south docslink text-white span-50]
-[IA RISE](https://www.technologyreview.com/s/612582/data-that-illuminates-the-ai-boom/?utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter&utm_medium=add_this&utm_content=2018-12-31)
-@snapend
-
-
-
-+++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
++++?image=template/img/bg/gray.jpg&position=top&size=100% 20%
 @title[Header Bar + Image Body]
 
 @snap[north text-white span-100]
@@ -46,7 +36,7 @@ Header bar with image body template.
 @snapend
 
 
-+++?image=template/img/bg/blue.jpg&position=bottom&size=100% 20%
++++?image=template/img/bg/black.jpg&position=bottom&size=100% 20%
 @title[Footer Bar + Image Body]
 
 @snap[south text-white span-100]
