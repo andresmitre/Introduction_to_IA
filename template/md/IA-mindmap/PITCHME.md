@@ -129,3 +129,6 @@ Note:
 - No supervisadas
 - Aprendizaje por refuerzo
 @snapend
+
++++?image=template/img/ML.png&position=center&size=100% 100%
+@title[Machine Learning]
