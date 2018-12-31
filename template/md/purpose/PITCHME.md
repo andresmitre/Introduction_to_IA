@@ -21,7 +21,7 @@ Note:
 
 +++?color=linear-gradient(to right, #485563, #29323c)
 
----?image=assets/img/batman.png&size=auto 60%&repeat=repeat-x
++++?image=assets/img/batman.png&size=auto 60%&repeat=repeat-x
 
 @title[Crecimiento de IA]
 @snap[midpoint docslink text-white span-50]
