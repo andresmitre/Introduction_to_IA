@@ -39,20 +39,6 @@ Note:
 +++?image=template/img/NLP.png&size=auto 75%&repeat=repeat-x&color=#485563
 @title[NLP frequency]
 
-
-+++?image=template/img/bg/gray.jpg&position=top&size=100% 20%
-@title[NLP]
-
-@snap[north text-white span-100]
-@size[1.5em](Expert Systems)
-@snapend
-
-@snap[north span-100]
-<br>
-![DATAFLOW](template/img/Expert_system.png)
-@snapend
-
-
 +++?image=template/img/bg/black.jpg&position=bottom&size=100% 20%
 @title[Expert system]
 
@@ -60,7 +46,7 @@ Note:
 @size[1.5em](Expert System)
 @snapend
 
-@snap[north span-100]
+@snap[midpoint span-100]
 <br>
 ![DATAFLOW](template/img/Expert_system.png)
 @snapend

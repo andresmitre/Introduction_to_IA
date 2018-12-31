@@ -15,13 +15,7 @@
 
 ---?include=template/md/IA-mindmap/PITCHME.md
 
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
 ---?include=template/md/list-content/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
 
 ---?include=template/md/sidebar/PITCHME.md
 

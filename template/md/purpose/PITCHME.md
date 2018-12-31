@@ -16,9 +16,8 @@
 
 Note:
 
-- Los autores definen IA como un **procesamiento** and **razonamiento**.
-
-
+- tecnología nueva **crea empleos** en diferentes maneras. **trabajos directos** y **nuevas industrias**.
+- a **mayor productividad**, añaden nuevos productos y compiten con el mercado.  
 
 +++?image=template/img/batman.png&size=auto 100%&repeat=repeat-x&color=#485563
 
