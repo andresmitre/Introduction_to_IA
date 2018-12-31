@@ -23,7 +23,7 @@
 
 ---?include=template/md/sidebar/PITCHME.md
 
----?include=template  /md/sidebox/PITCHME.md
+---?include=template/md/sidebox/PITCHME.md
 
 ---?include=template/md/split-screen/PITCHME.md
 
