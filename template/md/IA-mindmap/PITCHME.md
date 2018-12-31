@@ -20,20 +20,31 @@ Note:
 
 
 +++?image=template/img/bg/gray.jpg&position=top&size=100% 20%
-@title[Header Bar + Image Body]
+@title[NLP]
 
 @snap[north text-white span-100]
-@size[1.5em](Lorem Ipsum Dolor Sit Amet)
+@size[1.5em](Natural Language processing-NLP)
 @snapend
 
-@snap[south span-100]
-![DATAFLOW](template/img/dataflow.png)
-<br><br>
-@snapend
 
 @snap[south-west template-note text-gray]
 Header bar with image body template.
 @snapend
+
+@snap[west list-content-concise span-100]
+@ol
+- Alexa
+- Google home
+- Cortana
+- Siri
+- WATSON, etc.
+@olend
+<br><br>
+@snapend
+
+
++++?image=template/img/NLP.png
+@title[NLP frequency]
 
 
 +++?image=template/img/bg/black.jpg&position=bottom&size=100% 20%
