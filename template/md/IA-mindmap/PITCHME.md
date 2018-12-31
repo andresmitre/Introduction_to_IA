@@ -59,12 +59,28 @@ Note:
 @size[1.5em](Robotics)
 @snapend
 
-@snap[midpoint span-80]
-![DATAFLOW](template/img/dataflow.png)
+
+@snap[west list-content-concise span-100]
+@ol
+- Tareas domesticas
+- Automatización
+- Agricultura
+- Tareas de oficina
+- Paquetería  
+@olend
+<br><br>
 @snapend
 
-@snap[south-west template-note text-gray]
-Center bar with image body template.
+@snap[east list-content-concise span-100]
+@ol
+- Plantas nucleares
+- Espacio
+- Oceano
+- Mineria
+- Desastres naturales
+- Guerra
+@olend
+<br><br>
 @snapend
 
 
