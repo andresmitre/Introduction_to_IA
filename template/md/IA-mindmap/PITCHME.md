@@ -13,7 +13,6 @@
 +++?image=template/img/AI_mindmap.png
 @title[Image]
 
-
 Note:
 
 - Los autores definen IA como un **procesamiento** and **razonamiento**.
@@ -24,11 +23,6 @@ Note:
 
 @snap[north text-white span-100]
 @size[1.5em](Natural Language processing-NLP)
-@snapend
-
-
-@snap[south-west template-note text-gray]
-Header bar with image body template.
 @snapend
 
 @snap[west list-content-concise span-100]
@@ -46,16 +40,29 @@ Header bar with image body template.
 @title[NLP frequency]
 
 
-+++?image=template/img/bg/black.jpg&position=bottom&size=100% 20%
-@title[Footer Bar + Image Body]
++++?image=template/img/bg/gray.jpg&position=top&size=100% 20%
+@title[NLP]
 
-@snap[south text-white span-100]
-@size[1.5em](Lorem Ipsum Dolor Sit Amet)
+@snap[north text-white span-100]
+@size[1.5em](Expert Systems)
 @snapend
 
 @snap[north span-100]
 <br>
-![DATAFLOW](template/img/dataflow.png)
+![DATAFLOW](template/img/Expert_system.png)
+@snapend
+
+
++++?image=template/img/bg/black.jpg&position=bottom&size=100% 20%
+@title[Expert system]
+
+@snap[south text-white span-100]
+@size[1.5em](Expert System)
+@snapend
+
+@snap[north span-100]
+<br>
+![DATAFLOW](template/img/Expert_system.png)
 @snapend
 
 @snap[north-east template-note text-gray span-40]
