@@ -1,17 +1,17 @@
 ---?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 
-@title[¿Guay?]
+@title[IA mindmap]
 
 <br>
 
-## @color[#e49436](¿)Guay@color[#e49436](?)
+## Mapa de la @color[#e49436](IA)
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
 @fa[arrow-down text-black]
 
 
-+++?image=template/img/Purpose.jpg
-@title[Proposito]
++++?image=template/img/AI_mindmap.png
+@title[Image]
 
 
 Note:

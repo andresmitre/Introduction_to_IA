@@ -13,6 +13,8 @@
 
 ---?include=template/md/purpose/PITCHME.md
 
+---?include=template/md/IA-mindmap/PITCHME.md
+
 ---?include=template/md/code-presenting/PITCHME.md
 
 ---?include=template/md/image/PITCHME.md
