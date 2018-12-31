@@ -20,7 +20,7 @@ Note:
 
 
 
-+++?image=template/img/batman.png&size=auto 60%&repeat=repeat-3&color=#485563
++++?image=template/img/batman.png&size=auto 100%&repeat=repeat-x&color=#485563
 
 @title[Crecimiento de IA]
 @snap[bottom docslink text-white span-50]
