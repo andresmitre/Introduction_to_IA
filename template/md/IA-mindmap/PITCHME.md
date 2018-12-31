@@ -137,3 +137,28 @@ Note:
 <br>
 ![DATAFLOW](template/img/ML.png)
 @snapend
+
+
+
++++?image=template/img/bg/gray.jpg&position=top&size=100% 20%
+@title[Computer vision]
+
+@snap[north text-white span-100]
+@size[1.5em](Computer vision-CV)
+@snapend
+
+@snap[west list-content-concise span-100]
+@ol
+- Computadoras que interprentan información visual (imágenes y video)
+- CV: rama mas explotada en la Inteligencia Artificial
+- ¿Motivo?
+
+@olend
+<br><br>
+@snapend
+
+
+Note:
+
+- Vision, herramienta principal para explorar el mundo.
+- Aproximadamente el 50% del cortex cerebral es por vision
