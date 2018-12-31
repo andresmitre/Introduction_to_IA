@@ -162,3 +162,16 @@ Note:
 
 - Vision, herramienta principal para explorar el mundo.
 - Aproximadamente el 50% del cortex cerebral es por vision
+
+
++++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
+@title[NVIDIA ejemplo]
+![Gravity](https://www.youtube.com/embed/0rc4RqYLtEU)
+
++++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
+@title[Reconocimiento de placas]
+![Gravity](https://www.youtube.com/embed/ur6JY2Hl-MM)
+
++++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
+@title[Reconocimiento de rostros]
+![Gravity](https://www.youtube.com/embed/dCKl4oGP69s)
