@@ -131,4 +131,4 @@ Note:
 @snapend
 
 +++?image=template/img/ML.png&position=center&size=100% 100%
-@title[Machine Learning]
+@title[Estructura]
