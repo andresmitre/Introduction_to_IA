@@ -120,7 +120,7 @@ Note:
 
 +++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
 @title[Boston dynamics]
-![Gravity](https://www.youtube.com/embed/qv6UVOQ0F44)
+![Gravity](https://www.youtube.com/embed/LikxFZZO2sk)
 
 
 +++?image=template/img/bg/black.jpg&position=center&size=100% 65%
