@@ -104,7 +104,7 @@ Note:
 +++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Ejemplos]
 
-@snap[midpoint span-100]
+@snap[midpoint]
 <br>
 ![DATAFLOW](template/img/sophia.jpg)
 @snapend
