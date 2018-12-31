@@ -4,7 +4,7 @@
 
 <br>
 
-## @color[#e49436](¿)Guay[#e49436](?)
+## @color[#e49436](¿)Guay @color[#e49436](?)
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
 @fa[arrow-down text-black]
@@ -13,15 +13,24 @@
 +++?image=template/img/Purpose.jpg
 @title[Transparent Background]
 
-@snap[south-east template-note text-white]
-this is guay.
-@snapend
-
 
 Note:
 
 - Los autores definen IA como un **procesamiento** and **razonamiento**.
 
+
++++?color=linear-gradient(to right, #485563, #29323c)
+
++++?image=template/img/batman.png&position=west&size=75% 75%
+
++++?image=template/img/batman.png&position=midpoint&size=75% 75%
+
++++?image=template/img/batman.png&position=east&size=75% 75%
+
+@title[Crecimiento de IA]
+@snap[midpoint docslink text-white span-50]
+[IA RISE](https://www.technologyreview.com/s/612582/data-that-illuminates-the-ai-boom/?utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter&utm_medium=add_this&utm_content=2018-12-31)
+@snapend
 
 +++?image=template/img/bg/orange.jpg&position=top&size=100% 20%
 @title[Header Bar + Image Body]
