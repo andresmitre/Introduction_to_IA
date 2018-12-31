@@ -15,12 +15,4 @@
 
 ---?include=template/md/IA-mindmap/PITCHME.md
 
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/split-screen/PITCHME.md
-
 ---?include=template/md/wrap-up/PITCHME.md
