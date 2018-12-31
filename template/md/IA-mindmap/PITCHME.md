@@ -52,7 +52,7 @@ Note:
 @snapend
 
 
-+++?image=template/img/bg/black.jpg&position=center&size=100% 65%
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Robotics]
 
 @snap[north span-100]
@@ -60,7 +60,7 @@ Note:
 @snapend
 
 
-@snap[west list-content-concise text-white span-100]
+@snap[west list-content-concise span-100]
 @ol
 - Tareas domesticas
 - Automatización
@@ -71,7 +71,7 @@ Note:
 <br><br>
 @snapend
 
-@snap[east list-content-concise text-white span-100]
+@snap[east list-content-concise span-100]
 @ol
 - Plantas nucleares
 - Espacio
