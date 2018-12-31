@@ -130,5 +130,10 @@ Note:
 - Aprendizaje por refuerzo
 @snapend
 
-+++?image=template/img/ML.png&position=center&size=100% 100%
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Estructura]
+
+@snap[midpoint span-100]
+<br>
+![DATAFLOW](template/img/ML.png)
+@snapend
