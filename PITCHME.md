@@ -11,6 +11,8 @@
 
 ---?include=template/md/announcement/PITCHME_Template.md
 
+---?include=template/md/purpose/PITCHME.md
+
 ---?include=template/md/code-presenting/PITCHME.md
 
 ---?include=template/md/image/PITCHME.md

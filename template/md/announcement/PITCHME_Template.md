@@ -23,12 +23,10 @@
 
 +++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
 @title[Mario]
-@css[title-top-right](Mario world)
 ![Gravity](https://www.youtube.com/embed/qv6UVOQ0F44)
 
 +++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
 @title[AV]
-@css[title-top-right](AV)
 ![Video](https://www.youtube.com/embed/PjH_1hEoIDs)
 
 ---?image=template/img/ML_mindmap.png&position=left&size=10% 100%

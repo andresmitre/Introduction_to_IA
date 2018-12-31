@@ -27,7 +27,7 @@ Día 1: Introducción a IA + Code: mis primeras neuronas
 - ¿Qué es IA? Hipótesis, antecedentes
 - Aplicaciones: ciencia y ficción vs realidad, proposito*
 - ¿Por qué?
-- Inteligencia Artificial y sus vertientes
+- Mapa de la IA
 @olend
 <br><br>
 @snapend
