@@ -20,8 +20,8 @@ Note:
 
 
 
-+++?image=template/img/batman.png&size=auto 60%&repeat=repeat-x
-background-color: #485563
++++?image=template/img/batman.png&size=auto 60%&repeat=repeat-x&color=#485563
+
 @title[Crecimiento de IA]
 @snap[midpoint docslink text-white span-50]
 [IA RISE](https://www.technologyreview.com/s/612582/data-that-illuminates-the-ai-boom/?utm_campaign=site_visitor.unpaid.engagement&utm_source=twitter&utm_medium=add_this&utm_content=2018-12-31)
