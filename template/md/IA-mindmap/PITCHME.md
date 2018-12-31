@@ -110,14 +110,6 @@ Note:
 @snapend
 
 
-+++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
-@title[Ejemplos]
-
-@snap[midpoint span-100]
-<br>
-![DATAFLOW](template/img/cheetah.gif)
-@snapende
-
 +++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
 @title[Boston dynamics]
 ![Gravity](https://www.youtube.com/embed/LikxFZZO2sk)
