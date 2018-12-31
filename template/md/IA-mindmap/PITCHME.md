@@ -86,16 +86,33 @@ Note:
 +++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
 @title[Ejemplos]
 
-@snap[north-east span-100]
+@snap[midpoint span-100]
 <br>
 ![DATAFLOW](template/img/Drone.jpg)
 @snapend
 
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+@title[Ejemplos]
 
-@snap[south-east span-100]
+@snap[midpoint span-100]
 <br>
-![DATAFLOW](template/img/cheetagh.gif)
+![DATAFLOW](template/img/Space_robot.jpg)
 @snapend
+
+
+
++++?color=linear-gradient(to right, #ECE9E6, #FFFFFF)
+@title[Ejemplos]
+
+@snap[midpoint span-100]
+<br>
+![DATAFLOW](template/img/sophia.jpg)
+@snapend
+
+
++++?color=linear-gradient(to bottom, #000000, #434343,  #000000)
+@title[Boston Dynamics]
+![Gravity](https://www.youtube.com/embed/LikxFZZO2sk)
 
 
 +++?image=template/img/bg/black.jpg&position=top&size=100% 20%
