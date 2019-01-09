@@ -4,7 +4,7 @@
 
 <br>
 
-## @color[#e49436](¿)Guay@color[#e49436](?)
+## @color[#e49436](¿)Por qué@color[#e49436](?)
 #### Presentation @fa[magic] @color[#e49436](Magic)
 
 @fa[arrow-down text-black]
