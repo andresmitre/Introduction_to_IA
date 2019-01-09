@@ -12,7 +12,7 @@
 
 +++?color=linear-gradient(to right, #485563, #29323c)
 @title[Agenda: curso]
-@box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas. <br> Día 2. Navegando por clasificadores + Code: Matemática aplicada. <br> Día 3. Explorando la profundidad + Code: Aprendizaje.)
+@box[bg-white text-black rounded demo-box-pad](Día 1: Introducción a IA + Code: mis primeras neuronas. <br> Día 2. Navegando por clasificadores + Code: deep learning clasificación de imagenes aplicada. <br>.)
 
 +++
 @title[Agenda: día 1]
@@ -26,8 +26,8 @@ Día 1: Introducción a IA + Code: mis primeras neuronas
 - Mundo de las ciencias de la computación
 - ¿Qué es IA? Hipótesis, antecedentes
 - Aplicaciones: ciencia y ficción vs realidad, proposito*
-- ¿Por qué?
-- Mapa de la IA
+- Mundo de la Inteligencia Artificial
+- Composición de una red neuronal
 @olend
 <br><br>
 @snapend
