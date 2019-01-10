@@ -1,6 +1,5 @@
-# GitPitch - The Template
+# Inteligencia Artificial - Sumario y primeros pasos
 
-*THE FASTEST WAY FROM IDEA TO PRESENTATION*
+*Curso Introductorio a la Inteligencia Artificial*
 
-For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
-
+Para los ejemplos prácticos dar click aquí [here](https://gitpitch.com/docs/the-template).
